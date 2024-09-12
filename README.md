@@ -9,7 +9,6 @@ A simple and stylish Todo application built with React and styled using Tailwind
 - **Delete Tasks**: Remove tasks that are no longer needed.
 - **Mark as Completed**: Toggle tasks between completed and active states.
 - **Filter Tasks**: View tasks based on their status (All, Active, Completed).
-- **Persistent Storage**: Tasks are saved in the browser's local storage, so they persist across page reloads.
 
 ## Installation
 
