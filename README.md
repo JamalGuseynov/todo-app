@@ -18,3 +18,13 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/JamalGuseynov/todo-app.git
+
+   2. **Installing**
+
+   ```bash
+   npm install
+
+   3. **Launch**
+
+   ```bash
+    npm start
